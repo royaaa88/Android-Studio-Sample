@@ -1,0 +1,2 @@
+rootProject.name='MyWeChat2'
+include ':app'
