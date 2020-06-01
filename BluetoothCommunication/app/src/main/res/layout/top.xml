@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:background="@color/top_bgcolor"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/top_title"
+        android:layout_width="156dp"
+        android:layout_height="0dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="1"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="@string/top_title"
+        android:textColor="@android:color/background_light"
+        android:textSize="30sp" />
+</LinearLayout>

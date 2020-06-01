@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">HomeWork06</string>
+    <string name="top_title">微信聊天</string>
+    <string name="bottom_icon_txt1">微信</string>
+    <string name="bottom_icon_txt2">朋友</string>
+    <string name="bottom_icon_txt3">通讯录</string>
+    <string name="bottom_icon_txt4">设置</string>
+    <string name="tab01_txt">微信聊天</string>
+    <string name="tab02_txt">朋友</string>
+    <string name="tab03_txt">通讯录</string>
+    <string name="tab04_txt">设置</string>
+    <string name="item">行</string>
+    <string name="chat">聊天</string>
+
+    <string name="send">发送</string>
+    <string name="not_connected">你没有链接一个设备</string>
+    <string name="bt_not_enabled_leaving">蓝牙不可用，离开聊天室</string>
+    <string name="title_connecting">链接中…</string>
+    <string name="title_connected_to">连接到：</string>
+    <string name="title_not_connected">无链接</string>
+    <string name="scanning">蓝牙设备搜索中…</string>
+    <string name="select_device">选择一个好友链接</string>
+    <string name="none_paired">没有配对好友</string>
+    <string name="none_found">附近没有发现好友</string>
+    <string name="title_paired_devices">已配对好友</string>
+    <string name="title_other_devices">其它可连接好友</string>
+    <string name="button_scan">搜索好友</string>
+    <string name="connect">我的好友</string>
+    <string name="discoverable">设置在线</string>
+    <string name="back">退出</string>
+    <string name="startVideo">开始聊天</string>
+    <string name="stopVideo">结束聊天</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

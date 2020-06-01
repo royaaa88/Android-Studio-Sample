@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:baselineAligned="false"
+    android:gravity="center"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/bottom_bar"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:id="@+id/bottom_icon_btn1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bottom_bar"
+            android:contentDescription="@string/bottom_icon_txt1"
+            app:srcCompat="@drawable/tab_weixin_normal" />
+
+        <TextView
+            android:id="@+id/bottom_icon_txt1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:text="@string/bottom_icon_txt1"
+            android:textColor="@android:color/background_light"
+            android:textSize="30sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/bottom_bar"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:id="@+id/bottom_icon_btn2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bottom_bar"
+            android:contentDescription="@string/bottom_icon_txt2"
+            app:srcCompat="@drawable/tab_find_frd_normal" />
+
+        <TextView
+            android:id="@+id/bottom_icon_txt2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:text="@string/bottom_icon_txt2"
+            android:textColor="@android:color/background_light"
+            android:textSize="30sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/bottom_bar"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:id="@+id/bottom_icon_btn3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bottom_bar"
+            android:contentDescription="@string/bottom_icon_txt3"
+            app:srcCompat="@drawable/tab_address_normal" />
+
+        <TextView
+            android:id="@+id/bottom_icon_txt3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:text="@string/bottom_icon_txt3"
+            android:textColor="@android:color/background_light"
+            android:textSize="28sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/bottom_bar"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:id="@+id/bottom_icon_btn4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bottom_bar"
+            android:contentDescription="@string/bottom_icon_txt4"
+            app:srcCompat="@drawable/tab_settings_normal" />
+
+        <TextView
+            android:id="@+id/bottom_icon_txt4"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:text="@string/bottom_icon_txt4"
+            android:textColor="@android:color/background_light"
+            android:textSize="30sp" />
+    </LinearLayout>
+</LinearLayout>
