@@ -1,4 +1,4 @@
-package com.kyriexu.homework06;
+package com.roy.bluetoothcommunication;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.kyriexu.homework06", appContext.getPackageName());
+        assertEquals("com.roy.bluetoothcommunication", appContext.getPackageName());
     }
 }

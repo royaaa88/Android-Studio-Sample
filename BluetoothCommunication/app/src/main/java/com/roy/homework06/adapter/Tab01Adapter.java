@@ -1,4 +1,4 @@
-package com.kyriexu.homework06.adapter;
+package com.roy.bluetoothcommunication.adapter;
 
 import android.bluetooth.BluetoothDevice;
 import android.content.Context;
@@ -11,7 +11,7 @@ import androidx.annotation.NonNull;
 import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.kyriexu.homework06.R;
+import com.roy.bluetoothcommunication.R;
 
 import java.util.Arrays;
 import java.util.List;

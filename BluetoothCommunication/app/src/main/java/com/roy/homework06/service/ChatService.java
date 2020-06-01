@@ -1,9 +1,9 @@
-package com.kyriexu.homework06.service;
+package com.roy.bluetoothcommunication.service;
 
 import android.app.Activity;
 import android.bluetooth.BluetoothDevice;
 
-import com.kyriexu.homework06.pojo.Bluetooth;
+import com.roy.bluetoothcommunication.pojo.Bluetooth;
 
 import java.io.IOException;
 import java.util.Set;

@@ -1,4 +1,4 @@
-package com.kyriexu.homework06;
+package com.roy.homework06;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
@@ -11,10 +11,10 @@ import android.view.View;
 import android.view.Window;
 import android.widget.ImageButton;
 
-import com.kyriexu.homework06.fragment.Tab01Fragment;
-import com.kyriexu.homework06.fragment.Tab02Fragment;
-import com.kyriexu.homework06.fragment.Tab03Fragment;
-import com.kyriexu.homework06.fragment.Tab04Fragment;
+import com.roy.homework06.fragment.Tab01Fragment;
+import com.roy.homework06.fragment.Tab02Fragment;
+import com.roy.homework06.fragment.Tab03Fragment;
+import com.roy.homework06.fragment.Tab04Fragment;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.kyriexu.homework06;
+package com.roy.bluetoothcommunication;
 
 import org.junit.Test;
 

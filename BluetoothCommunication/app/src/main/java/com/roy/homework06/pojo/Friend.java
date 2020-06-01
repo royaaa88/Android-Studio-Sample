@@ -1,4 +1,4 @@
-package com.kyriexu.homework06.pojo;
+package com.roy.bluetoothcommunication.pojo;
 
 public class Friend {
     private int id;

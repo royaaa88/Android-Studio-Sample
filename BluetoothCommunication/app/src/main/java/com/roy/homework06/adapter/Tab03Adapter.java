@@ -1,4 +1,4 @@
-package com.kyriexu.homework06.adapter;
+package com.roy.bluetoothcommunication.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -9,8 +9,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.kyriexu.homework06.R;
-import com.kyriexu.homework06.pojo.Friend;
+import com.roy.bluetoothcommunication.R;
+import com.roy.bluetoothcommunication.pojo.Friend;
 
 import java.util.List;
 

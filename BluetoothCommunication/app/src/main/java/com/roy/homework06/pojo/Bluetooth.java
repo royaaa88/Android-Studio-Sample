@@ -1,4 +1,4 @@
-package com.kyriexu.homework06.pojo;
+package com.roy.bluetoothcommunication.pojo;
 
 import android.app.Activity;
 import android.bluetooth.BluetoothAdapter;

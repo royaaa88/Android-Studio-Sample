@@ -1,4 +1,4 @@
-package com.kyriexu.homework06.fragment;
+package com.roy.bluetoothcommunication.fragment;
 
 import android.app.AlertDialog;
 import android.content.DialogInterface;
@@ -15,10 +15,10 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
-import com.kyriexu.homework06.R;
-import com.kyriexu.homework06.adapter.Tab03Adapter;
-import com.kyriexu.homework06.db.SQLUtil;
-import com.kyriexu.homework06.pojo.Friend;
+import com.roy.bluetoothcommunication.R;
+import com.roy.bluetoothcommunication.adapter.Tab03Adapter;
+import com.roy.bluetoothcommunication.db.SQLUtil;
+import com.roy.bluetoothcommunication.pojo.Friend;
 
 import java.util.List;
 

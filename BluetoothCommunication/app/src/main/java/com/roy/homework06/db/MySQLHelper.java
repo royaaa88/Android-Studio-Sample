@@ -1,4 +1,4 @@
-package com.kyriexu.homework06.db;
+package com.roy.bluetoothcommunication.db;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;

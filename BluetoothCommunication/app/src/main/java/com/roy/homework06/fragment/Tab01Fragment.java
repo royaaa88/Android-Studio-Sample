@@ -1,4 +1,4 @@
-package com.kyriexu.homework06.fragment;
+package com.roy.bluetoothcommunication.fragment;
 
 import android.Manifest;
 import android.bluetooth.BluetoothDevice;
@@ -14,9 +14,9 @@ import androidx.fragment.app.FragmentActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.kyriexu.homework06.R;
-import com.kyriexu.homework06.adapter.Tab01Adapter;
-import com.kyriexu.homework06.service.ChatService;
+import com.roy.bluetoothcommunication.R;
+import com.roy.bluetoothcommunication.adapter.Tab01Adapter;
+import com.roy.bluetoothcommunication.service.ChatService;
 
 import java.io.IOException;
 import java.util.ArrayList;

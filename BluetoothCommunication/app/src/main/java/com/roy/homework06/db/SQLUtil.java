@@ -1,11 +1,11 @@
-package com.kyriexu.homework06.db;
+package com.roy.bluetoothcommunication.db;
 
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 
-import com.kyriexu.homework06.pojo.Friend;
+import com.roy.bluetoothcommunication.pojo.Friend;
 
 import java.util.ArrayList;
 import java.util.List;
